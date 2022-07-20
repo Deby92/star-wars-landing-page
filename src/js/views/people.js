@@ -60,7 +60,7 @@ const People=() => {
           </div>
         </div>
       </div><br></br>
-      <Link to="/" class="btn btn-dark">Go Home</Link>
+      <Link to="/" class="btn btn-light">Go Home</Link>
     </>
   )
 }
