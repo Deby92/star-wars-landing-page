@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 export const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-dark">
+    <nav className="navbar navbar-expand-lg bg-dark opacity-75 pt-0 pb-0">
       <div className="container-fluid">
         <Link className="navbar-brand text-light" to="/">
-          Navbar
+          <img class="logo" width="60px" src="https://img.icons8.com/color/344/star-wars.png" />
         </Link>
         <button
           className="navbar-toggler"
@@ -25,19 +25,19 @@ export const Navbar = () => {
         >
           <div className="navbar-nav">
             <Link
-              className="nav-link active text-secondary"
+              className="nav-link active text-white"
               aria-current="page"
               to="/"
             >
               Home
             </Link>
-            <Link className="nav-link text-info" to="/people">
-              People
+            <Link className="nav-link text-white" to="/people">
+              Characters
             </Link>
-            <Link className="nav-link text-info" to="/planets">
+            <Link className="nav-link text-white" to="/planets">
               Planets
             </Link>
-            <Link className="nav-link text-info" to="/vehicles">
+            <Link className="nav-link text-white" to="/vehicles">
               Vehicles
             </Link>
           </div>

@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ecestaticos.com%2Fimage%2Fclipping%2Fbeb8c958c92a0663b94cc61939116c2a%2Festos-son-los-10-objetos-mas-grandes-de-todo-el-universo-que-conocemos.jpg&f=1&nofb=1");
+    background-size: 100% auto;
+    background-position: center top;
+    opacity: 90%;
+}
+
+.container-notJumbotron{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.xtrafondos.com%2Fwallpapers%2Fstar-wars-el-despertar-de-la-fuerza-poster-3650.jpg&f=1&nofb=1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 80%;
+    object-fit: fill;
+    width: 100%;
+    border-radius: 18px;
+    height: 250px;
+    padding: 25px;
+}
