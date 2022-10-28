@@ -58,7 +58,7 @@ export const Home = () => {
       <br></br>
       
 
-      <div className="row g-0 d-flex justify-content-center border-top opacity-75" id="card1">
+      <div className="row g-0 d-flex justify-content-center border-top" id="card1">
         <div className="card border-0">
           <div className="row g-0 d-flex justify-content-center ">
             <div className="col-md-3">
@@ -95,7 +95,7 @@ export const Home = () => {
 
       
 
-      <div className="row g-0 d-flex justify-content-center border-top opacity-75 text-dark" id="card2">
+      <div className="row g-0 d-flex justify-content-center border-top  text-dark" id="card2">
         <div className="card border-0">
           <div className="row g-0 d-flex justify-content-center ">
             
@@ -133,7 +133,7 @@ export const Home = () => {
       <br></br>
       <br></br>
 
-      <div className="row g-0 d-flex justify-content-center border-top bg-body text-dark opacity-75" id="card3">
+      <div className="row g-0 d-flex justify-content-center border-top bg-body text-dark" id="card3">
         <div className="card border-0">
           <div className="row g-0 d-flex justify-content-center ">
             <div className="col-md-3">

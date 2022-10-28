@@ -34,8 +34,8 @@ body{
     width: 900;
     margin-left: 200px;
     margin-right: 200px;
-    opacity: 50%;
-    text-decoration: black;
+    opacity: 85%;
+    text-decoration: black none;
     
 }
 
@@ -43,6 +43,8 @@ body{
     width: 900;
     margin-left: 200px;
     margin-right: 200px;
+    opacity: 85%;
+    text-decoration: black none;
     
 }
 
@@ -50,4 +52,6 @@ body{
     width: 900;
     margin-left: 200px;
     margin-right: 200px;
+    opacity: 85%;
+    text-decoration: black none solid;
 }
